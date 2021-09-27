@@ -10,8 +10,8 @@ function App() {
   return (
     <div className="App">
       <h1>Hello {data} </h1>
-      <User email={"peter@gmail.com"}/>
-      <button onClick={()=>update()}>Update</button>
+      <User email={"kinalrami@gmail.com"}/>
+      <button onClick={()=>update()}>Save</button>
     </div>
   );
 }
